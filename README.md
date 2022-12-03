@@ -1,5 +1,5 @@
 # Smart-Office----Using-the-RFID-Tag
-Smart unlocking system using the rifd tag.
+Smart unlocking system using the rfid tag.
 
 Radio Frequency Identification (RFID) refers to a wireless system comprised of two components: tags and readers. The reader is a device that has one or more antennas that emit radio waves and receive signals back from the RFID tag. Tags, which use radio waves to communicate their identity and other information to nearby readers, can be passive or active. Passive RFID tags are powered by the reader and do not have a battery. Active RFID tags are powered by batteries.
 
