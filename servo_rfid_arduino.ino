@@ -1,7 +1,4 @@
-// WELCOME TO THE BACKBENCHERS YOUTUBE CHANNEL
-// PLEASE SUBSCRIBE TO MY CHANNEL
-// PRESS THE BELL ICON TO GET NOTIFIED MY LATEST VIDEO UPDATE
-// THEANKS FOR WATCHING
+
 //zaheer before going to access it u need to go to msc522 lib. and click on dumpinfo and change the sada(ss_pin) and rst pins and upload the codes;
 // next u have to place the cards one after the other and note the keys 
 //copy one of the key of the card and past it in the code so that u can give access to only that card.
